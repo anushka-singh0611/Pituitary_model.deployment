@@ -1,1 +1,13 @@
+Trained Model
 
+The trained U-Net model (.pth) is not included in this repository because of GitHub file size limitations.
+
+You can train the model using the provided notebook.
+
+Model Architecture:
+- U-Net
+- Framework: PyTorch
+
+Dataset:
+BRISC 2025 Pituitary Tumor Segmentation Dataset
+https://doi.org/10.6084/m9.figshare.27894084
