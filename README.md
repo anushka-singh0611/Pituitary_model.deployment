@@ -9,6 +9,7 @@ U-Net based Pituitary tumor segmentation from MRI images using PyTorch for autom
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+<img width="134" height="74" alt="image" src="https://github.com/user-attachments/assets/ea583839-afd7-49ee-8764-c5e0ae444029" />
 
 ## 📌 Project Overview
 
